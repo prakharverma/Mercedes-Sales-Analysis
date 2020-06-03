@@ -1,3 +1,3 @@
 # Mercedes-Sales-Analysis
 
-## Still cooking
+A quick analysis of Mercedes sales analysis done just for fun.
